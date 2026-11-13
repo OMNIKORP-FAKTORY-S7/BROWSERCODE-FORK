@@ -1,3 +1,19 @@
+# BROWSERCODE-FORK
+
+## Origine
+- Fork de : **BrowserCode**
+- Auteur : browser-use
+- Dépôt d'origine : https://github.com/browser-use/browsercode
+- Forké le 13.11.2026 par OMNIKORP-FAKTORY, avec tout l'historique et toutes les branches
+
+## Rôle chez OMNIKORP
+Prétendant d'AGENT SOFIA (S7), conservé comme preuve et sauvegarde, et étudié dans la chaîne EXTRACTION, COMPARAISON, FUSION.
+
+## Licence
+MIT, inchangée dans le fichier LICENSE.
+
+---
+
 <img src="static/browsercode_ascii_banner.svg" alt="browsercode" width="100%">
 
 # The browser-native agent
